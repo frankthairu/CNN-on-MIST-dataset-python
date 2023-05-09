@@ -4,7 +4,6 @@
 
 I will be using the TensorFlow framework to build and train three different CNN models on MNIST dataset with different modifications to come up with the best model.
 
-I will also give views on the best model
 
 # Built by
 
